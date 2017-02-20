@@ -20,4 +20,4 @@ fix-pip:
 	@echo "Latest pip installed"
 
 jupyter:
-	pip install jupyter==4.2.3
+	pip install jupyter notebook==4.2.3
